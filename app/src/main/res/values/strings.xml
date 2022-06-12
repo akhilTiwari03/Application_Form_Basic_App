@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Application Form</string>
+    <string name="email">Email</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="address">Address</string>
+    <string name="batch_year">Batch Year</string>
+    <string name="university_name">University Name</string>
+    <string name="registration_number">Registration Number</string>
+    <string name="enter_your_full_name">Enter your Full Name</string>
+    <string name="application">   Application Form for Enrolling into the Android Course</string>
+    <string name="button">Submit</string>
+    <string name="please_verify_your_details_here">Please Verify your Details here..</string>
+    <string name="textview">TextView</string>
+    <string name="Thankyou">Thankyou for Registering into our Course ! \n\n We will give you further updates in your registered email.\n \n Happy Learning :)</string>
+    <string name="if_your_details_are_correct_please_click_next_else_click_back">If your details are correct Please click Next else click Back</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
